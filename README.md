@@ -6,7 +6,7 @@
 
 ## About Me
 **Riddhima Nath** | B.Com Student, Allahabad University | Aspiring Business Analyst
-| [LinkedIn] : https://www.linkedin.com/in/riddhima-nath/
+| [LinkedIn](https://www.linkedin.com/in/riddhima-nath/)
 
 ---
 
